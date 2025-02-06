@@ -1,3 +1,8 @@
 "# Git Intro" 
 "## Beschreibung" 
 "Dies ist ein Git-EinfÅhrungsprojekt." 
+"## Installation" 
+"Klonen Sie dieses Repository mit:" 
+"\`\`\`sh" 
+"git clone <URL>" 
+"\`\`\`" 
