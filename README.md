@@ -1,6 +1,6 @@
 "# Git Intro" 
 "## Beschreibung" 
-"Dies ist ein Git-Einfhrungsprojekt." 
+"Dies ist ein Git-Einfï¿½hrungsprojekt." 
 "## Installation" 
 "Klonen Sie dieses Repository mit:" 
 "\`\`\`sh" 
@@ -10,3 +10,6 @@
 "Dieses Projekt steht unter der MIT-Lizenz." 
 # Mein Projekt
 Dies ist eine Beschreibung meines Projekts.
+
+## Einleitung
+Dieses Projekt dient dazu, den Git-Workflow zu erlernen und zu verbessern.
